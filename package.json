@@ -1,0 +1,8 @@
+{
+    "name": "com.packagetest.scriptstest",
+    "name": "scripts_test",
+    "description": "Test Scripts",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "src": "Asssets/TestScripts"
+}
